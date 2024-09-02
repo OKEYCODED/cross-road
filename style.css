@@ -54,7 +54,7 @@ button {
 #contorlls button:first-of-type {
     grid-column: 1/-1;
 }
-#player{
+#player {
     position: absolute;
     bottom: 80px;
     right: 50px;
